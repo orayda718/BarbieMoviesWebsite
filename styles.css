@@ -1,0 +1,48 @@
+table {
+    table-layout: fixed;
+    margin-left: auto; 
+    margin-right: auto;
+    border: 20px solid;
+    width: 1044px;
+    border-color: #E11380;
+    background-color: white;
+    font-family: 'Krub', sans-serif;
+/*    background-color: #FACFDC;*/
+}
+
+th, td {
+    padding: 20px;
+/*
+    color: black;
+    border: 2px solid;
+*/
+}
+
+body{
+    background-color: #FACFDC;
+    background-image: url('images/barbiepatternwhite.jpg');
+}
+
+.imgborder{
+    border: 10px solid;
+    border-color: #E11380;
+    padding: 0px;
+}
+
+.nopadding{
+    padding: 0px;
+    border: 0px solid;
+}
+
+
+/*
+#bottomborder{
+    border-bottom: 20px;
+    border-bottom-color: #E11380;
+}
+
+.topborder{
+    border-top: 20px;
+    border-top-color: #E11380;
+}
+*/
